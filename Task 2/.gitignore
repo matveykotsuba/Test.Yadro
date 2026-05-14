@@ -1,0 +1,10 @@
+build/
+msvc_build/
+fft_task
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+__pycache__/
+TASK.md
